@@ -1,0 +1,261 @@
+2023-08-28 15:03:44,561 - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2023-08-28 15:03:44,561 - INFO - logging in using static token
+2023-08-28 15:08:35,401 - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2023-08-28 15:08:35,401 - INFO - logging in using static token
+2023-08-28 15:10:28,915 - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2023-08-28 15:10:28,915 - INFO - logging in using static token
+2023-08-28 15:11:37,424 - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2023-08-28 15:11:37,424 - INFO - logging in using static token
+2023-08-28 15:11:38,284 - INFO - Shard ID None has connected to Gateway (Session ID: 5ba6a0cd108008d342e676d13d50077f).
+2023-08-28 15:11:40,293 - INFO - Eingeloggt als CoC Bot
+2023-08-28 15:11:46,829 - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\Andreas\PycharmProjects\CoCBot\entw\main.py", line 30, in on_message
+    logging.info(f'{message.author.name} ({message.author.id}) in #{message.channel.name} - {message.content}')
+AttributeError: 'DMChannel' object has no attribute 'name'
+2023-08-28 15:13:09,757 - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2023-08-28 15:13:09,757 - INFO - logging in using static token
+2023-08-28 15:13:10,676 - INFO - Shard ID None has connected to Gateway (Session ID: 2c15460b8f034c5ef34e025be5d85b7f).
+2023-08-28 15:13:12,677 - INFO - Eingeloggt als CoC Bot
+2023-08-28 15:13:16,959 - INFO - blue_isaac (580080785214930955) in einer privaten Nachricht - !info
+2023-08-28 15:14:08,324 - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2023-08-28 15:14:08,324 - INFO - logging in using static token
+2023-08-28 15:14:09,193 - INFO - Shard ID None has connected to Gateway (Session ID: 08605204eb248d910d7ab17461f7f835).
+2023-08-28 15:14:11,208 - INFO - Eingeloggt als CoC Bot
+2023-08-28 15:14:17,177 - INFO - blue_isaac (580080785214930955) in einer privaten Nachricht - !info
+2023-08-28 15:15:31,365 - INFO - blue_isaac (580080785214930955) in #bot - 
+2023-08-28 15:16:18,101 - INFO - blue_isaac (580080785214930955) in #bot - 
+2023-08-28 15:16:22,373 - INFO - blue_isaac (580080785214930955) in #bot - 
+2023-08-28 15:18:33,240 - INFO - blue_isaac (580080785214930955) in #bot - 
+2023-08-28 15:27:59,410 - INFO - Shard ID None session has been invalidated.
+2023-08-28 15:34:02,363 - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2023-08-28 15:34:02,363 - INFO - logging in using static token
+2023-08-28 15:34:03,171 - INFO - Shard ID None has connected to Gateway (Session ID: c8fbe57a8b6008345d35e41e4ba27c8e).
+2023-08-28 15:34:05,186 - INFO - Eingeloggt als CoC Bot
+2023-08-28 15:34:10,402 - INFO - blue_isaac (580080785214930955) in #bot - 
+2023-08-28 15:34:27,096 - INFO - blue_isaac (580080785214930955) in einer privaten Nachricht - !regeln
+2023-08-28 15:35:45,618 - WARNING - Privileged message content intent is missing, commands may not work as expected.
+2023-08-28 15:35:45,618 - INFO - logging in using static token
+2023-08-28 15:35:46,508 - INFO - Shard ID None has connected to Gateway (Session ID: 6fb5652775bdc9598de94c94f2728a42).
+2023-08-28 15:35:48,527 - INFO - Eingeloggt als CoC Bot
+2023-08-28 15:36:09,935 - INFO - blue_isaac (580080785214930955) in #bot - 
+2023-08-28 15:36:16,610 - INFO - blue_isaac (580080785214930955) in einer privaten Nachricht - !regeln
+2023-08-28 15:36:22,258 - INFO - blue_isaac (580080785214930955) in einer privaten Nachricht - !hilfe
+2023-08-28 15:37:26,138 - INFO - jussy5759 (1100164589984944148) in #bot - 
+2023-08-28 15:37:34,273 - INFO - jussy5759 (1100164589984944148) in #bot - 
+2023-08-28 15:38:04,930 - INFO - jussy5759 (1100164589984944148) in einer privaten Nachricht - !regeln
+2023-08-28 15:38:50,993 - INFO - jussy5759 (1100164589984944148) in einer privaten Nachricht - !ping
+2023-08-28 15:39:04,397 - INFO - jussy5759 (1100164589984944148) in einer privaten Nachricht - !General kenobi
+2023-08-28 15:39:10,639 - INFO - jussy5759 (1100164589984944148) in einer privaten Nachricht - !clan
+2023-08-28 15:39:34,034 - INFO - jussy5759 (1100164589984944148) in einer privaten Nachricht - !info
+2023-08-28 15:40:15,546 - INFO - jussy5759 (1100164589984944148) in einer privaten Nachricht - !aufgaben
+2023-08-28 15:40:35,002 - INFO - jussy5759 (1100164589984944148) in einer privaten Nachricht - !hallo
+2023-08-28 15:40:45,601 - INFO - ._.i.s.a._. (534844498057101332) in #chat - 
+2023-08-28 15:40:55,483 - INFO - jussy5759 (1100164589984944148) in #chat - 
+2023-08-28 15:41:15,061 - INFO - jussy5759 (1100164589984944148) in #chat - 
+2023-08-28 15:46:08,623 - INFO - ._.i.s.a._. (534844498057101332) in #chat - 
+2023-08-28 15:46:58,524 - INFO - jussy5759 (1100164589984944148) in #chat - 
+2023-08-28 15:47:01,707 - INFO - jussy5759 (1100164589984944148) in #chat - 
+2023-08-28 15:47:18,723 - INFO - ._.i.s.a._. (534844498057101332) in #chat - 
+2023-08-28 15:47:31,976 - INFO - jussy5759 (1100164589984944148) in #chat - 
+2023-08-28 15:47:39,221 - INFO - blue_isaac (580080785214930955) in #bot - 
+2023-08-28 15:47:40,422 - INFO - scarry90 (1143772596970737664) in #chat - 
+2023-08-28 15:47:45,485 - INFO - blue_isaac (580080785214930955) in #bot - 
+2023-08-28 15:47:55,472 - INFO - jussy5759 (1100164589984944148) in #chat - 
+2023-08-28 15:55:16,719 - INFO - Shard ID None has successfully RESUMED session 6fb5652775bdc9598de94c94f2728a42.
+2023-08-28 15:57:05,161 - INFO - ._.i.s.a._. (534844498057101332) in #chat - 
+2023-08-28 17:57:54,672 - INFO - Shard ID None has successfully RESUMED session 6fb5652775bdc9598de94c94f2728a42.
+2023-08-28 17:58:20,136 - INFO - logging in using static token
+2023-08-28 17:58:21,009 - INFO - Shard ID None has connected to Gateway (Session ID: 642ca165c685838a94472e5a54df70f7).
+2023-08-28 17:58:23,020 - INFO - Eingeloggt als CoC Bot
+2023-08-28 17:58:31,038 - INFO - blue_isaac (580080785214930955) in #bot - !regeln
+2023-08-28 17:59:06,872 - INFO - jussy5759 (1100164589984944148) in #bot - \U0001f44d\U0001f525
+2023-08-28 17:59:18,854 - INFO - blue_isaac (580080785214930955) in #bot - Ach man was soll das denn \U0001f604
+2023-08-28 17:59:27,008 - INFO - blue_isaac (580080785214930955) in #bot - Hat er dir privat geantwortet? Ja oder?
+2023-08-28 18:00:02,009 - INFO - blue_isaac (580080785214930955) in #bot - !hallo
+2023-08-28 18:00:10,447 - INFO - blue_isaac (580080785214930955) in #bot - !ping
+2023-08-28 18:01:09,577 - INFO - blue_isaac (580080785214930955) in #infos-regeln - !regeln
+2023-08-28 18:01:44,236 - INFO - blue_isaac (580080785214930955) in #bot - Schöne sache
+2023-08-28 18:14:10,131 - INFO - Shard ID None has successfully RESUMED session 642ca165c685838a94472e5a54df70f7.
+2023-08-28 18:34:31,126 - INFO - jussy5759 (1100164589984944148) in #bot - !hallo
+2023-08-28 18:47:40,414 - INFO - ._.i.s.a._. (534844498057101332) in #bot - !hallo
+2023-08-28 19:08:17,627 - INFO - psycho.xiii (1111261394210390107) in #chat - Der andere streamt F1 ich werde dich melden\U0001f602\U0001f602\U0001f602
+2023-08-28 19:09:37,992 - INFO - Shard ID None has successfully RESUMED session 642ca165c685838a94472e5a54df70f7.
+2023-08-28 19:21:42,461 - INFO - ._.i.s.a._. (534844498057101332) in #chat - Was?
+2023-08-28 19:41:57,211 - ERROR - Attempting a reconnect in 1.48s
+Traceback (most recent call last):
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Andreas\Anaconda3\lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\aiohttp\client.py", line 792, in _ws_connect
+    raise WSServerHandshakeError(
+aiohttp.client_exceptions.WSServerHandshakeError: 502, message='Invalid response status', url=URL('wss://gateway-us-east1-c.discord.gg/?v=10&encoding=json&compress=zlib-stream')
+2023-08-28 19:41:58,713 - ERROR - Attempting a reconnect in 2.28s
+Traceback (most recent call last):
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Andreas\Anaconda3\lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\aiohttp\client.py", line 792, in _ws_connect
+    raise WSServerHandshakeError(
+aiohttp.client_exceptions.WSServerHandshakeError: 502, message='Invalid response status', url=URL('wss://gateway-us-east1-c.discord.gg/?v=10&encoding=json&compress=zlib-stream')
+2023-08-28 19:42:01,025 - ERROR - Attempting a reconnect in 7.66s
+Traceback (most recent call last):
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\client.py", line 656, in connect
+    self.ws = await asyncio.wait_for(coro, timeout=60.0)
+  File "C:\Users\Andreas\Anaconda3\lib\asyncio\tasks.py", line 479, in wait_for
+    return fut.result()
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\gateway.py", line 372, in from_client
+    socket = await client.http.ws_connect(str(url))
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\http.py", line 537, in ws_connect
+    return await self.__session.ws_connect(url, **kwargs)
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\aiohttp\client.py", line 792, in _ws_connect
+    raise WSServerHandshakeError(
+aiohttp.client_exceptions.WSServerHandshakeError: 502, message='Invalid response status', url=URL('wss://gateway-us-east1-c.discord.gg/?v=10&encoding=json&compress=zlib-stream')
+2023-08-28 19:42:11,454 - INFO - Shard ID None has successfully RESUMED session 642ca165c685838a94472e5a54df70f7.
+2023-08-28 19:57:58,980 - INFO - psycho.xiii (1111261394210390107) in #chat - Wo soll ich ausbessern oder angreifen?
+2023-08-28 20:21:48,047 - INFO - jussy5759 (1100164589984944148) in #chat - Mach die 17 brooo
+2023-08-28 20:35:08,066 - INFO - psycho.xiii (1111261394210390107) in #chat - Ok gut\U0001f60e\U0001f4aa\U0001f3fb
+2023-08-28 20:37:29,258 - INFO - jussy5759 (1100164589984944148) in #chat - \U0001f525
+2023-08-28 20:40:26,671 - INFO - psycho.xiii (1111261394210390107) in #chat - Sheissen
+2023-08-28 20:40:29,915 - INFO - psycho.xiii (1111261394210390107) in #chat - Jussy?
+2023-08-28 20:40:35,860 - INFO - jussy5759 (1100164589984944148) in #chat - Wasn
+2023-08-28 20:40:41,990 - INFO - psycho.xiii (1111261394210390107) in #chat - Was geht?
+2023-08-28 20:40:51,592 - INFO - jussy5759 (1100164589984944148) in #chat - Zocken du
+2023-08-28 20:40:51,711 - INFO - psycho.xiii (1111261394210390107) in #chat - Bist du am F1 streamen?
+2023-08-28 20:40:56,846 - INFO - psycho.xiii (1111261394210390107) in #chat - Kann man dich dort sehen?
+2023-08-28 20:41:31,142 - INFO - jussy5759 (1100164589984944148) in #chat - Ja
+2023-08-28 20:41:35,874 - INFO - jussy5759 (1100164589984944148) in #chat - Ne haha
+2023-08-28 20:42:02,862 - INFO - jussy5759 (1100164589984944148) in #chat - Übertrage Bildschirm einfach nur
+2023-08-28 20:42:15,542 - INFO - jussy5759 (1100164589984944148) in #chat - Ich bin live auf Twitch – Schau mir zu unter https://www.twitch.tv/jussy0108?sr=a!
+2023-08-28 20:42:18,190 - INFO - jussy5759 (1100164589984944148) in #chat - Hier haha
+2023-08-28 20:46:14,736 - INFO - jussy5759 (1100164589984944148) in #chat - Du solltest dir unbedingt mal nh neue Angriffs Taktik aussuchen\U0001f602 deine Ballons und diese komischen Lakaien sind nicht wirklich\U0001f602
+2023-08-28 20:48:57,942 - INFO - psycho.xiii (1111261394210390107) in #chat - Ja hatte falschen deck drin
+2023-08-28 20:49:05,366 - INFO - psycho.xiii (1111261394210390107) in #chat - \U0001f602\U0001f602\U0001f602\U0001f602\U0001f602
+2023-08-28 20:49:09,408 - INFO - psycho.xiii (1111261394210390107) in #chat - Hab mich sl aufgeretgt
+2023-08-28 20:50:33,887 - INFO - jussy5759 (1100164589984944148) in #chat - \U0001f602
+2023-08-28 21:05:36,801 - INFO - blue_isaac (580080785214930955) in #chat - Hat wer Truppen für meinen Angriff?
+2023-08-28 21:06:46,642 - INFO - scarry90 (1143772596970737664) in #chat - Was brauchst?
+2023-08-28 21:07:01,347 - INFO - blue_isaac (580080785214930955) in #chat - Gehe auf Luft also irgendwas da
+2023-08-28 21:07:16,712 - INFO - scarry90 (1143772596970737664) in #chat - Bist voll \U0001f605
+2023-08-28 21:07:20,450 - INFO - blue_isaac (580080785214930955) in #chat - Soll ich die 14 angreifen glaube unsere schafft es nicht
+2023-08-28 21:07:55,656 - INFO - blue_isaac (580080785214930955) in #chat - Ja grad gesehen
+2023-08-28 21:08:08,280 - INFO - scarry90 (1143772596970737664) in #chat - <@1141849390802280570> ich brauch dich \U0001f923
+2023-08-28 21:08:09,637 - INFO - blue_isaac (580080785214930955) in #chat - Belagerunsmaschinen hast du nich keine oder?
+2023-08-28 21:08:16,784 - INFO - scarry90 (1143772596970737664) in #chat - Hab ich leider noch nicht
+2023-08-28 21:08:42,521 - INFO - blue_isaac (580080785214930955) in #chat - Schade
+2023-08-28 21:23:05,155 - INFO - scarry90 (1143772596970737664) in #chat - Und sagt mir mal ob ich die 1 oder 3 machen soll \U0001f605
+2023-08-28 21:39:30,608 - INFO - Shard ID None has successfully RESUMED session 642ca165c685838a94472e5a54df70f7.
+2023-08-28 21:44:33,356 - INFO - jussy5759 (1100164589984944148) in #chat - Mach die 11 bro
+2023-08-28 21:45:45,014 - INFO - scarry90 (1143772596970737664) in #chat - Das doch öde \U0001f923
+2023-08-28 21:45:59,612 - INFO - jussy5759 (1100164589984944148) in #chat - Wir brauchen die Sterne nunmal
+2023-08-28 21:46:37,596 - INFO - scarry90 (1143772596970737664) in #chat - Ja bei der 3 gibts doch auch drei Sterne \U0001f937\u200d\u2642\ufe0f
+2023-08-28 21:47:03,423 - INFO - jussy5759 (1100164589984944148) in #chat - Meinst kriegst hin?
+2023-08-28 21:47:39,614 - INFO - scarry90 (1143772596970737664) in #chat - Gleiche base wie die 2 nur bissel schlechter \U0001f605 also mit der richtigen clanburg ja
+2023-08-28 21:48:10,175 - INFO - jussy5759 (1100164589984944148) in #chat - Na dann gehört die 3 dir\U0001f61c
+2023-08-28 21:48:37,386 - INFO - scarry90 (1143772596970737664) in #chat - Nur brauch die Spende von Nike \U0001f923 wo ist er?
+2023-08-28 21:49:12,688 - INFO - jussy5759 (1100164589984944148) in #chat - Bilde grad aus für dich
+2023-08-28 21:49:44,932 - INFO - scarry90 (1143772596970737664) in #chat - Super, dann fehlt nur noch die Belagerung \U0001f605
+2023-08-28 21:50:23,887 - INFO - jussy5759 (1100164589984944148) in #chat - Ich Schreibe ihm mal auf whats App
+2023-08-28 21:50:31,565 - INFO - scarry90 (1143772596970737664) in #chat - Top \U0001f44d
+2023-08-28 21:57:11,383 - INFO - scarry90 (1143772596970737664) in #chat - Und wird das was? \U0001f605 sonst muss ich halt doch die 11 machen
+2023-08-28 21:57:51,816 - INFO - psycho.xiii (1111261394210390107) in #chat - Ich jann dir ka nicht spenden oder?
+2023-08-28 21:58:14,939 - INFO - psycho.xiii (1111261394210390107) in #chat - Was für sacgeb willst du dan bau ich die
+2023-08-28 22:01:23,373 - INFO - scarry90 (1143772596970737664) in #chat - Belagerungsmaschine ^^
+2023-08-28 22:01:38,059 - INFO - scarry90 (1143772596970737664) in #chat - Ich mach jetzt die 11 will pennen \U0001f605
+2023-08-28 22:01:39,044 - INFO - psycho.xiii (1111261394210390107) in #chat - Das kann ich nicht
+2023-08-28 22:15:31,001 - INFO - jussy5759 (1100164589984944148) in #chat - Hat noch nicht geantwortet
+2023-08-28 22:15:43,122 - INFO - jussy5759 (1100164589984944148) in #chat - Okay\U0001f44d
+2023-08-28 22:16:05,544 - INFO - jussy5759 (1100164589984944148) in #willkommen - !hallo
+2023-08-29 09:06:55,313 - INFO - logging in using static token
+2023-08-29 09:06:56,170 - INFO - Shard ID None has connected to Gateway (Session ID: b85c512c3922dc3f194791cfa0f2f848).
+2023-08-29 09:06:58,175 - INFO - Eingeloggt als CoC Bot
+2023-08-29 09:07:16,964 - INFO - blue_isaac (580080785214930955) in #willkommen - !info
+2023-08-29 09:33:28,102 - INFO - logging in using static token
+2023-08-29 09:33:28,935 - INFO - Shard ID None has connected to Gateway (Session ID: 3f753dc89f4facf4bd01aba9aae7da94).
+2023-08-29 09:33:30,953 - INFO - Eingeloggt als CoC Bot
+2023-08-29 09:33:41,882 - INFO - blue_isaac (580080785214930955) in #chat - Supi
+2023-08-29 09:39:30,959 - INFO - logging in using static token
+2023-08-29 09:39:31,832 - INFO - Shard ID None has connected to Gateway (Session ID: fd8b9d84da6912d192067d8646d93561).
+2023-08-29 09:39:33,836 - INFO - Eingeloggt als CoC Bot
+2023-08-29 09:39:38,160 - INFO - blue_isaac (580080785214930955) in #chat - Supi
+2023-08-29 09:39:38,848 - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\Andreas\PycharmProjects\CoCBot\entw\main.py", line 75, in on_message
+    await message.author.send(textbot.get_response("willkommen"))
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+2023-08-29 10:13:22,303 - INFO - logging in using static token
+2023-08-29 10:13:23,319 - INFO - Shard ID None has connected to Gateway (Session ID: 6432cc4ee59d655bfd8462e1576d9129).
+2023-08-29 10:13:25,330 - INFO - Eingeloggt als CoC Bot
+2023-08-29 10:13:30,325 - INFO - blue_isaac (580080785214930955) in #bot - test
+2023-08-29 10:13:31,151 - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\Andreas\PycharmProjects\CoCBot\entw\main.py", line 75, in on_message
+    await message.author.send(textbot.get_response("willkommen"))
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+2023-08-29 10:13:32,369 - INFO - blue_isaac (580080785214930955) in #bot - test
+2023-08-29 10:13:33,041 - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\Andreas\PycharmProjects\CoCBot\entw\main.py", line 75, in on_message
+    await message.author.send(textbot.get_response("willkommen"))
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+2023-08-29 10:15:18,946 - INFO - logging in using static token
+2023-08-29 10:15:19,917 - INFO - Shard ID None has connected to Gateway (Session ID: b725618a86a481dd52dfd9fc73134415).
+2023-08-29 10:15:21,924 - INFO - Eingeloggt als CoC Bot
+2023-08-29 10:15:27,020 - INFO - blue_isaac (580080785214930955) in #bot - test
+2023-08-29 10:15:27,759 - ERROR - Ignoring exception in on_message
+Traceback (most recent call last):
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\client.py", line 441, in _run_event
+    await coro(*args, **kwargs)
+  File "C:\Users\Andreas\PycharmProjects\CoCBot\entw\main.py", line 78, in on_message
+    await message.author.send(textbot.get_response("willkommen"))
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\abc.py", line 1561, in send
+    data = await state.http.send_message(channel.id, params=params)
+  File "C:\Users\Andreas\Anaconda3\lib\site-packages\discord\http.py", line 745, in request
+    raise HTTPException(response, data)
+discord.errors.HTTPException: 400 Bad Request (error code: 50006): Cannot send an empty message
+2023-08-29 10:17:01,854 - INFO - logging in using static token
+2023-08-29 10:17:02,797 - INFO - Shard ID None has connected to Gateway (Session ID: 62ea795a253199d25146fba99ad87b5f).
+2023-08-29 10:17:04,810 - INFO - Eingeloggt als CoC Bot
+2023-08-29 10:17:06,128 - INFO - blue_isaac (580080785214930955) in #bot - test
+2023-08-29 10:17:18,948 - INFO - blue_isaac (580080785214930955) in #bot - test
+2023-08-29 10:21:53,264 - INFO - logging in using static token
+2023-08-29 10:21:54,313 - INFO - Shard ID None has connected to Gateway (Session ID: 1b37461288d43083cbfd4712eaca98e8).
+2023-08-29 10:21:56,316 - INFO - Eingeloggt als CoC Bot
+2023-08-29 10:22:01,808 - INFO - blue_isaac (580080785214930955) in #bot - teat
+2023-08-29 10:22:06,076 - INFO - blue_isaac (580080785214930955) in #bot - teat
+2023-08-29 10:27:33,460 - INFO - logging in using static token
+2023-08-29 10:27:34,452 - INFO - Shard ID None has connected to Gateway (Session ID: 0f8558e1258e3f85216adde538660ee3).
+2023-08-29 10:27:36,456 - INFO - Eingeloggt als CoC Bot
+2023-08-29 10:27:49,012 - INFO - blue_isaac (580080785214930955) in #bot - !hilfe
+2023-08-29 10:28:51,706 - INFO - blue_isaac (580080785214930955) in einer privaten Nachricht - !hilfe
+2023-08-29 10:56:46,773 - INFO - Shard ID None session has been invalidated.
