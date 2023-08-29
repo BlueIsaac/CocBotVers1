@@ -4,12 +4,13 @@ import discord
 from discord.ext import commands
 import logging
 import textbot
+from decouple import config
 
 # Definieren Sie die Intents, die Ihr Bot benötigt
 intents = discord.Intents.all()
 intents.typing = True
 intents.presences = True
-TOKEN = 'MTE0NDI5MTkwMzY4MTA4OTU3OA.Gyd5rI.zQXZ6eicMa3JQtDXrA1qKV1keB6ULmqPBhDmck'
+TOKEN = config("TOKEN")
 # Initialisieren Sie den Bot mit den Intents
 bot = commands.Bot(command_prefix='!', intents=intents)
 
